@@ -16,6 +16,13 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
 # =========================
 # Operating System Files
 # =========================
