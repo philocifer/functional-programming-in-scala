@@ -1,6 +1,11 @@
 *.class
 *.log
 
+# resource files
+*.png
+*.csv
+*.dat
+
 # sbt specific
 .cache
 .history
